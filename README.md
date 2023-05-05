@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dean Ghassemi</h1>
+<h1 align="center"> Hello! I am Dean Ghassemi</h1>
 <h3 align="center">I am a software engineering enthusiast, and I am currently highly interested in web development</h3>
 
 - 🔭 I’m currently working on **BadmintonWeb** (Private), and my [Personal Website](https://github.com/DeanGhassemi/PersonalSite)
