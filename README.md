@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here on my [Github](https://github.com/DeanGhassemi)
 
-- 💎 Some technologies I have worked with in Sheridan College: **WPF, UWP, ADO, Spring Boot, Thymeleaf**
+- 💎 The technologies I have worked with in Sheridan College: **WPF, UWP, ADO, Spring Boot, Thymeleaf, Java, HTML, CSS**
 
 - 📫 How to reach me **deanghassemi@gmail.com**
 
