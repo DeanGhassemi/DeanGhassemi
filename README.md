@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **BadmintonWeb** (Private), and my [Personal Website](https://github.com/DeanGhassemi/PersonalSite)
 
-- 🌱 I’m currently learning **React, Express, Node, PostgreSQL, Tailwind**
+- 🌱 I’m currently learning **Oracle, JavaScript** and soon enough AngularJS :D
 
 - 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
 
 - 👨‍💻 All of my projects are available here on my [Github](https://github.com/DeanGhassemi)
 
-- 💎 The technologies I have worked with in Sheridan College: **WPF, UWP, ADO, Spring Boot, Thymeleaf, Java, HTML, CSS**
+- 💎 The technologies I have worked with in Sheridan College: **.NET Framework, Spring Boot, C, Java, HTML, CSS**
 
 - 📫 How to reach me **deanghassemi@gmail.com**
 
