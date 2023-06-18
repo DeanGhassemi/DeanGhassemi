@@ -11,7 +11,7 @@
 
 - 💎 The technologies I have worked with in Sheridan College: **.NET Framework, Spring Boot, C, Java, HTML, CSS**
 
-- 📫 How to reach me **deanghassemi@gmail.com**
+- 📫 How to reach me **ghassemd@sheridancollege.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
