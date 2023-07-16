@@ -1,9 +1,9 @@
 <h1 align="center"> Hello! I am Dean Ghassemi</h1>
 <h3 align="center">I am a software engineering enthusiast, and currently highly interested in web development</h3>
 
-- 🔭 I’m currently working on **BadmintonWeb** (Private), and my [Personal Website](https://github.com/DeanGhassemi/PersonalSite)
+- 🔭 I’m currently working on solidifying my skillset
 
-- 🌱 I’m currently learning **Oracle, JavaScript** and soon enough AngularJS :D
+- 🌱 I’m currently learning **Oracle** and **Angular**
 
 - 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
 
