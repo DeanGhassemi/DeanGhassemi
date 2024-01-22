@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! I am Dean Ghassemi</h1>
 <h3 align="center">I am a software engineer, and currently highly interested in web development</h3>
 
-- 🌱 I’m currently learning **AngularJS, and .NET**
+- 🌱 I’m currently learning **ASP.NET**, **Sveltekit**, **Kotlin**, and **Swift**
 
 - 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
 
