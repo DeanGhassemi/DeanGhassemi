@@ -5,7 +5,7 @@
 
 - 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
 
-- 👨‍💻 All of my projects are available at [Here]([https://github.com/DeanGhassemi](https://github.com/DeanGhassemi?tab=repositories))
+- 👨‍💻 All of my projects are available at [Here](https://github.com/DeanGhassemi?tab=repositories)
 
 - 💎 Some technologies I have worked with at Sheridan: **.NET, Spring Boot, C, Java, HTML/CSS, JavaScript, Angular**
 
