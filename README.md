@@ -1,13 +1,13 @@
 <h1 align="center"> Hello! I am Dean Ghassemi</h1>
 <h3 align="center">I am a software engineer, and currently highly interested in web development</h3>
 
-- 🌱 I’m currently learning **React**, **Sveltekit**, **Kotlin**, and **Swift**
+- 🌱 I’m currently learning **Sveltekit**, **Machine Learning (Scikit-learn)**, **Face Recognition**, **Kotlin**, and **Swift**
 
 - 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeanGhassemi](https://github.com/DeanGhassemi)
+- 👨‍💻 All of my projects are available at [Here]([https://github.com/DeanGhassemi](https://github.com/DeanGhassemi?tab=repositories))
 
-- 💎 Some technologies I have worked with at Sheridan: **.NET, Spring Boot, C, Java, HTML/CSS**
+- 💎 Some technologies I have worked with at Sheridan: **.NET, Spring Boot, C, Java, HTML/CSS, JavaScript, Angular**
 
 - 📫 How to reach me **deanghassemi@gmail.com**
 
