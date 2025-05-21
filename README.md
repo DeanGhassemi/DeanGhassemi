@@ -1,13 +1,15 @@
 <h1 align="center"> Hello! I am Dean Ghassemi</h1>
 <h3 align="center">I am a software engineer, and currently highly interested in web development</h3>
 
-- 🌱 I’m currently learning about **Accessibility**
+- 🌱 I’m currently learning about **Next.JS, TailwindCSS**
 
-- 📚 I'm attending Sheridan College for **Software Development and Network Engineering**
+- 📚 I'm attended Sheridan College for **Software Development and Network Engineering** and **Graduated April 2025**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DeanGhassemi?tab=repositories)
+ 
+- 💎 The technologies I have worked with in my co-ops: **HTML, CSS, JavaScript, AngularJS, C#, ASP.NET, Bootstrap, React, Sass, MaterialUI**
 
-- 💎 Some technologies I have worked with at Sheridan: **.NET, Spring Boot, C, Java, HTML/CSS, JavaScript, Angular**
+- ❤️‍🔥 The technologies I have learnt on my own time: **Next.js, SvelteKit, Node.js, Express.js, GSAP, Sanity, Firebase, Stripe, Framer Motion**
 
 - 📫 How to reach me **deanghassemi@gmail.com**
 
