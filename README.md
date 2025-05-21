@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DeanGhassemi?tab=repositories)
  
-- 💎 The technologies I have worked with in my co-ops: **HTML, CSS, JavaScript, AngularJS, C#, ASP.NET, Bootstrap, React, Sass, MaterialUI**
+- 💞 My favourite technologies as of May 2025: **SvelteKit, Next.js, TailwindCSS, GSAP, Firebase, Framer Motion**
 
-- ❤️‍🔥 The technologies I have learnt on my own time: **Next.js, SvelteKit, Node.js, Express.js, GSAP, Sanity, Firebase, Stripe, Framer Motion**
+- 💎 The technologies I have worked with in my co-ops: **HTML/CSS/JS, AngularJS, C#, ASP.NET, Bootstrap, React, Sass, MaterialUI**
 
 - 📫 How to reach me **deanghassemi@gmail.com**
 
