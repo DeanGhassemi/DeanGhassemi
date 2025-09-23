@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Next.JS, TailwindCSS**
 
-- 📚 I'm attended Sheridan College for **Software Development and Network Engineering** and **Graduated April 2025**
+- 📚 I attended Sheridan College for **Software Development and Network Engineering** and **Graduated April 2025**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DeanGhassemi?tab=repositories)
  
