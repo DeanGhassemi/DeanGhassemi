@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! I am Dean Ghassemi</h1>
-<h3 align="center">I am a software engineer, and currently highly interested in web development</h3>
+<h3 align="center">I am a Cloud Engineer, currently working at RAVL</h3>
 
-- 🌱 I’m currently learning about **Next.JS, TailwindCSS**
+- 🌱 I’m currently learning about **Azure, and Terraform**
 
 - 📚 I attended Sheridan College for **Software Development and Network Engineering** and **Graduated April 2025**
 
